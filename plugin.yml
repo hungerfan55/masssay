@@ -1,0 +1,9 @@
+name: MassayPlugin
+main: massay.MainClass
+version: "1.0.0"
+api: ["1.0.9"]
+
+commands:
+  masssay:
+    description: masssay command
+    permission: permission.masssay
